@@ -1,7 +1,7 @@
 hello world in java
 
-class helloworld {
-public static void main (string args[]){
-system.out.println("hello world");{
+class helloworld {// class defines the class name//
+public static void main (string args[]){//it is the main method says that start from here//
+system.out.println("hello world");{//it is the output which can be displayed//
 }
 }
