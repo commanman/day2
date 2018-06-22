@@ -1,5 +1,15 @@
-hello world in java
-
+// hello world in java
+/*
+1. do we need to follow NamingConvension while giving name to java source file? 
+2. Did you run this program successfully with out errors?
+3. class helloworld => There is a naming convesion, better to follow the standard camel case style "HelloWorld"
+4. arg[] is of type string and class names always start with uppercase letter "S"tring
+5. what is system?
+6. what is out?
+7. what is println?
+8. why is the use of main method argument String[]?
+9. Read about how to write comments? when to use // and /*? Is it neccessary to use // both at begining and end of the comment line?
+*/
 class helloworld {// class defines the class name//
 public static void main (string args[]){//it is the main method says that start from here//
 system.out.println("hello world");{//it is the output which can be displayed//
